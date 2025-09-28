@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-widget"
-version = "0.1.1"
+version = "0.1.2"
 authors = [ "fwy13" ]
 description = "A Tauri plugin to interact with App Widgets (Android). Allows your Tauri app to shared preferences (Android), and update timeline widgets."
 edition = "2021"

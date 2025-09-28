@@ -2,7 +2,7 @@
   "name": "tauri-plugin-widget-api",
   "version": "0.1.1",
   "author": "fwy13",
-  "description": "",
+  "description": "A Tauri plugin to interact with App Widgets (Android). Allows your Tauri app to shared preferences (Android), and update timeline widgets.",
   "type": "module",
   "types": "./dist-js/index.d.ts",
   "main": "./dist-js/index.cjs",
