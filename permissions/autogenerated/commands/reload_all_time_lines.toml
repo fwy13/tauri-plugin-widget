@@ -1,0 +1,13 @@
+# Automatically generated - DO NOT EDIT!
+
+"$schema" = "../../schemas/schema.json"
+
+[[permission]]
+identifier = "allow-reload-all-time-lines"
+description = "Enables the reload_all_time_lines command without any pre-configured scope."
+commands.allow = ["reload_all_time_lines"]
+
+[[permission]]
+identifier = "deny-reload-all-time-lines"
+description = "Denies the reload_all_time_lines command without any pre-configured scope."
+commands.deny = ["reload_all_time_lines"]

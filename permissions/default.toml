@@ -1,0 +1,3 @@
+[default]
+description = "Default permissions for the plugin"
+permissions = ["allow-set-items", "allow-get-items", "allow-set-register-widget", "allow-reload-all-time-lines", "allow-reload-time-lines", "allow-request-widget"]
