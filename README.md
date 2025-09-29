@@ -16,7 +16,7 @@ A Tauri plugin to interact with App Widgets (Android). Allows your Tauri app to 
 ## 🎬 Demo
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
-  <img style="border-radius: 40px; border: 1px solid black;" src="demo.gif" alt="Android Example Demo" width="50%" />
+  <img style="border-radius: 40px; border: 1px solid black;" src="https://raw.githubusercontent.com/fwy13/tauri-plugin-widget/refs/heads/main/demo.gif" alt="Android Example Demo" width="50%" />
 </div>
 
 ## 🚀 Install
